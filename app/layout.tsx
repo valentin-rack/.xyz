@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
 
   description:
-    "Explorá todos los emprendimientos del país en un solo lugar. Conectá con creadores independientes y descubrí productos hechos para vos.",
+    "Explorá todos los emprendimientos del país de forma centralizada. Conectá con creadores independientes y descubrí productos hechos para vos.",
 
   keywords: [
     "emprendimientos argentinos",
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "vidriera.xyz — todos los emprendimientos del país en un solo lugar",
     description:
-      "Explorá todos los emprendimientos del país en un solo lugar. Conectá con creadores independientes y descubrí productos hechos para vos.",
+      "Explorá todos los emprendimientos del país de forma centralizada. Conectá con creadores independientes y descubrí productos hechos para vos.",
     url: "https://vidriera.xyz",
     siteName: "vidriera.xyz",
     images: [
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
         url: "/og-image.png", // asegurate de crear esta imagen
         width: 1200,
         height: 630,
-        alt: "Vidriera - Emprendimientos de Argentina",
+        alt: "vidriera.xyz",
       },
     ],
     locale: "es_AR",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "vidriera.xyz — emprendimientos de Argentina",
     description:
-      "Todos los emprendimientos del país en un solo lugar.",
+      "todos los emprendimientos del país en un solo lugar.",
     images: ["/og-image.png"],
   },
 
